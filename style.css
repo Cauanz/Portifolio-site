@@ -37,8 +37,6 @@ nav ul li a {
   font-family: D-DIN-Bold,Arial,Verdana,sans-serif
 }
 
-nav ul li a::after {
-}
 
 nav {
   position: fixed;
